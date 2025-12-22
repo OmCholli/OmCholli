@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Om Cholli
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/>
+ 
 </h1>
 
 <h3 align="center">Java & DevOps Enthusiast 🚀</h3>
@@ -13,15 +13,14 @@
 
 ## 👨‍💻 About Me  
 
-Hi! I'm **Om Cholli**, an enthusiastic **fresher** passionate about building **clean, efficient, and reliable software**.  
-I’m currently focused on strengthening my skills in **Core Java** while exploring the world of **DevOps** to understand how real-world applications are **built, tested, deployed, and managed**.
+Hi! I'm Om Cholli, an enthusiastic fresher passionate about building clean, efficient, and reliable software. I am currently focused on strengthening my skills in **Core Java** and exploring the world of **DevOps** to understand how real-world applications are built, tested, deployed, and managed.
 
-I enjoy learning systems **end to end** — from writing Java code to working with **CI/CD pipelines, automation, version control, cloud basics, and containerization**.
+I enjoy learning how things work from end to end — from writing Java code to understanding CI/CD pipelines, automation, version control, cloud basics, and containerization. My goal is to grow into a versatile Java & DevOps engineer who can contribute to both development and deployment processes.
 
-My goal is to grow into a **versatile Java & DevOps Engineer** who can contribute to both **development and deployment** processes.
+I’m continuously working on projects and hands-on practice to improve my skills. I believe in writing clean code, learning from mistakes, and growing a little every day.
 
 - 🌍 **Location:** Bangalore, India  
-- ✉️ **Email:** [omcholli007@gmail.com](mailto:omcholli007@gmail.com)  
+- ✉️  You can contact me at [omcholli007@gmail.com](mailto:omcholli007@gmail.com)
 - 🧠 **Currently learning:** Spring Framework & essential DevOps tools  
 - 💬 **Ask me about:** Java, DevOps tools, tech & geek culture  
 
@@ -66,4 +65,6 @@ My goal is to grow into a **versatile Java & DevOps Engineer** who can contribut
 
 ---
 
-⭐ *I believe in learning every day, writing better code, and growing step by step as an engineer.*
+💡 Passionate about backend development, problem-solving, and exploring cloud and DevOps fundamentals.
+
+📌 Learning. Building. Growing. 🚀
